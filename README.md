@@ -23,7 +23,7 @@ This project is a simple voice-activated virtual assistant named "Veera," design
 ### Setup
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/veera-virtual-assistant.git
+   git clone https://github.com/AadityaKGupta/Veera---Your-Virtual-Assistant
    ```
 2. Open the project folder and open the `index.html` file in a web browser.
 
@@ -54,12 +54,13 @@ This project is a simple voice-activated virtual assistant named "Veera," design
 ## Contribution
 If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
+
+## License
+This project is licensed under the MIT License.
+
 ## Contact
 For any questions or further assistance, please reach out to:
 
 - **Name**: Aaditya Kumar Gupta
 - **Email**: [k.aaditya.g@gmail.com](mailto:aaditya@example.com)
-- **GitHub**: [AadityaKGupta](https://github.com/aadityagupta)
-
-## License
-This project is licensed under the MIT License.
+- **GitHub**: [AadityaKGupta](https://github.com/AadityaKGupta)
