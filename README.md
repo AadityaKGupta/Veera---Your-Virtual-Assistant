@@ -60,7 +60,7 @@ Try Veera online! Click [here](https://aadityakgupta.github.io/Veera---Your-Virt
 If you would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or further assistance, please reach out to:
