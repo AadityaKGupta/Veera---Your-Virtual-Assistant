@@ -4,9 +4,6 @@
 
 This project is a simple voice-activated virtual assistant named "Veera," designed to help you with various tasks like providing greetings based on the time of day, checking the time and date, opening websites, setting reminders, and more. The assistant is developed using JavaScript, leveraging the Web Speech API for speech recognition and speech synthesis, providing a voice interaction experience.
 
-## Demo
-Try Veera online! Click [here](https://aadityakgupta.github.io/Veera---Your-Virtual-Assistant/) to experience a live demo of Veera.
-
 ## Features
 - **Greetings**: Veera greets you based on the current time of day.
 - **Voice Commands**: 
